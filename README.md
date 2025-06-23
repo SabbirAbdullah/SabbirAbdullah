@@ -8,6 +8,7 @@ I'm a passionate  Mobile Application  developer focused on building scalable and
 - 🔐 Authentication – JWT, Firebase Auth, Role-based Access
 - 🌱 I’m currently learning kotlin and Node js, express js...
 - 💞️ I’m looking to collaborate on ...
+- 🧑🏻 portfolio : https://sabbirabdullah.vercel.app
 - 📫  reach me : sabbir.abdullah.dev@gmail.com
 - 📘 facebook : https://www.facebook.com/profile.php?id=100006840228518&sk=about
 - 💼  linkdin: https://www.linkedin.com/in/sabbir-abdullah/
