@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SabbirAbdullah
 I'm a passionate  Mobile Application  developer focused on building scalable and user-friendly applications. I love working with clean architecture, state management (GetX/BLoC), and RESTful APIs.
-- 💻 Mobile App Development – Flutter & Dart (MVVM, GetX, BLoC)
-- 🌐 Backend Development – Node.js, Express.js, REST APIs
-- 🛠️ Database – MongoDB, MySQL, Firestore
+- 💻 Mobile App Development – Flutter & Dart (MVVM,MVC, GetX, BLoC)
+- 🌐 Backend Development – Node.js, Express.js, REST APIs, GraphQL
+- 🛠️ Database – MongoDB, MySQL, Firestore, PostgreSQL
 - 📦 CI/CD & DevOps – Firebase, GitHub Actions
 - 📱 Cross-platform Apps – Android, iOS, Web
 - 🔐 Authentication – JWT, Firebase Auth, Role-based Access
