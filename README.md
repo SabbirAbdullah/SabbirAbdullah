@@ -3,10 +3,9 @@ I'm a passionate  Mobile Application  developer focused on building scalable and
 - 💻 Mobile App Development – Flutter & Dart (MVVM,MVC, GetX, BLoC)
 - 🌐 Backend Development – Node.js, Express.js, REST APIs, GraphQL
 - 🛠️ Database – MongoDB, MySQL, Firestore, PostgreSQL
-- 📦 CI/CD & DevOps – Firebase, GitHub Actions
 - 📱 Cross-platform Apps – Android, iOS, Web
 - 🔐 Authentication – JWT, Firebase Auth, Role-based Access
-- 🌱 I’m currently learning kotlin and Node js, express js...
+- 🌱 I’m currently working with  kotlin and Node js, express js...
 - 💞️ I’m looking to collaborate on ...
 - 🧑🏻 portfolio : https://sabbirabdullah.vercel.app
 - 📫  reach me : sabbir.abdullah.dev@gmail.com
