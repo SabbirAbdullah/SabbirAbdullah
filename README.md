@@ -41,7 +41,7 @@
 ## 🌐 Portfolio Website  
 🚀 **Portfolio:** https://sabbirabdullah.vercel.app
 
-
+---
 ## 💻 What I Do  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
@@ -49,56 +49,64 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px">
 </p>
-
-
 ---
-## 📌 Featured Projects  
+## 📌 **Featured Projects**
+
 ### 🔹 **NeuroCheck Pro — Medical Assessment App (iOS + Android)**
 <details>
-  <summary>▶️ Click to expand</summary>
-  - **Tech Stack**: Flutter + GetX  
-  - **Backend**: Node.js + MySQL  
-  - **Features**: Appointment system, Assessment system  
+  <summary><b>▶️ NeuroCheck Pro — Medical Assessment App (iOS + Android)</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> Flutter + GetX</li>
+    <li><b>Backend:</b> Node.js + MySQL</li>
+    <li><b>Features:</b> Appointment system, Assessment system</li>
+  </ul>
 </details>
 
 ---
 
 ### 🔹 **E-Com & POS Sys Management App**
 <details>
-  <summary>▶️ Click to expand</summary>
-  - **Tech Stack**: Flutter  
-  - **Features**: QR code scanning, Online payment, Auto item listing & quantity update, Clean MVVM architecture  
+  <summary><b>▶️ E-Com & POS Sys Management App</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> Flutter</li>
+    <li><b>Features:</b> QR code scanning, Online payment, Auto item listing & quantity update, Clean MVVM architecture</li>
+  </ul>
 </details>
 
 ---
 
 ### 🔹 **Attendance App**
 <details>
-  <summary>▶️ Click to expand</summary>
-  - **Tech Stack**: Flutter + Node.js  
-  - **Features**: Camera capture, location tracking, Two-step attendance (in/out time), Node.js backend with MySQL  
+  <summary><b>▶️ Attendance App</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> Flutter + Node.js</li>
+    <li><b>Features:</b> Camera capture, location tracking, Two-step attendance (in/out time), Node.js backend with MySQL</li>
+  </ul>
 </details>
 
 ---
 
 ### 🔹 **Weather Forecast**
 <details>
-  <summary>▶️ Click to expand</summary>
-  - **Tech Stack**: Kotlin + Hilt + Retrofit + Clean Architecture  
-  - **Features**: Search specific location, Current weather information  
+  <summary><b>▶️ Weather Forecast</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> Kotlin + Hilt + Retrofit + Clean Architecture</li>
+    <li><b>Features:</b> Search specific location, Current weather information</li>
+  </ul>
 </details>
 
 ---
 
 ### 🔹 **School Management System (Ongoing)**
 <details>
-  <summary>▶️ Click to expand</summary>
-  - **Tech Stack**: Flutter + BLoC + Clean Architecture  
-  - **Features**: Fees payment, attendance, homework management, notifications  
+  <summary><b>▶️ School Management System (Ongoing)</b></summary>
+  <ul>
+    <li><b>Tech Stack:</b> Flutter + BLoC + Clean Architecture</li>
+    <li><b>Features:</b> Fees payment, attendance, homework management, notifications</li>
+  </ul>
 </details>
 
 
----
 
 ## 📊 GitHub Stats  
 <p align="center">
