@@ -1,7 +1,7 @@
 <!-- Banner -->
-<!-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/44dce7bf-81b6-4f1f-99c6-9061d476c3f1" width="100%" />
-</p> -->
+<img width="3400" height="872" alt="github-header-banner" src="https://github.com/user-attachments/assets/2e013c1e-628f-46c1-911a-af4fb6d08651" />
+
+---
 
 <h1 align="center">Hi 👋, I'm Sabbir</h1>
 <h3 align="center">🚀 Mobile Application Developer | Flutter • Kotlin • Android</h3>
@@ -42,6 +42,21 @@
 🚀 **Portfolio:** https://sabbirabdullah.vercel.app
 
 ---
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/sabbir.abdullah.508102" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabbir-abdullah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/SabbirAbdullah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
 ## 💻 What I Do  
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
@@ -114,14 +129,6 @@
 
 ---
 
-## 🚀 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirAbdullah&layout=compact&theme=tokyonight&hide=html&langs_count=10" />
-</p>
-
-
----
 
 ## 📈 Contribution Graph  
 <p align="center">
@@ -129,6 +136,7 @@
 </p>
 
 ---
+
 
 ## 🌍 Visitors  
 <p align="center">
