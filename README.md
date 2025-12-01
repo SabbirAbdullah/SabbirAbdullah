@@ -1,9 +1,9 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/44dce7bf-81b6-4f1f-99c6-9061d476c3f1" width="100%" />
-</p>
+</p> -->
 
-<h1 align="center">Hi 👋, I'm Md Abdullah Kaisar Sabbir</h1>
+<h1 align="center">Hi 👋, I'm Sabbir</h1>
 <h3 align="center">🚀 Mobile Application Developer | Flutter • Kotlin • Android</h3>
 
 ---
@@ -11,17 +11,16 @@
 
 ## 👨‍💻 About Me  
 - 🔭 Working as a **Flutter Mobile App Developer**  
-- 📱 Skilled in **Flutter | GetX | BLoC | MVVM**  
-- 📚 Exploring **Kotlin & Jetpack Compose**  
-- 🛠 Experienced in **Node.js, Express, MySQL**  
-- 🎯 Love building **POS, QR Scanner, Attendance & School Apps**  
+- 📱 Skilled in **Flutter | Kotlin**
+- 📚 Exploring **Node.js and Express**  
+- 🎯 Love building **Cross Platform Application**  
 - 📩 Email: **sabbir.abdullah.dev@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,nodejs,express,mysql,ts,js,react,figma,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,xcode,firebase,androidstudio,mysql,figma,postman,git,github" />
 </p>
 
 ---
