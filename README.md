@@ -105,10 +105,11 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SabbirAbdullah&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirAbdullah&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SabbirAbdullah&show_icons=true&hide_title=true&hide=prs&theme=tokyonight&count_private=true" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirAbdullah&theme=tokyonight" height="160px" />
 </p>
 
 ---
