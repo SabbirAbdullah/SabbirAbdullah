@@ -1,12 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/0y8Ftya.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/44dce7bf-81b6-4f1f-99c6-9061d476c3f1" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Abdullah Kaisar Sabbir</h1>
 <h3 align="center">🚀 Mobile Application Developer | Flutter • Kotlin • Android</h3>
 
 ---
+
 
 ## 👨‍💻 About Me  
 - 🔭 Working as a **Flutter Mobile App Developer**  
