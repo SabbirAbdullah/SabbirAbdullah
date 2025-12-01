@@ -10,7 +10,7 @@
 
 
 ## 👨‍💻 About Me  
-- 🔭 Working as a **Flutter Mobile App Developer**  
+- 🔭 Working as a **Mobile App Developer**  
 - 📱 Skilled in **Flutter | Kotlin**
 - 📚 Exploring **Node.js and Express**  
 - 🎯 Love building **Cross Platform Application**  
