@@ -61,8 +61,19 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px">
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200px">
+      </td>
+    </tr>
+  </table>
 </p>
+
+
 ---
 
 ## 📌 **Featured Projects**
