@@ -1,10 +1,9 @@
-<!-- Banner -->
-<img width="3400" height="872" alt="github-header-banner" src="https://github.com/user-attachments/assets/2e013c1e-628f-46c1-911a-af4fb6d08651" />
-
----
 
 <h1 align="center">Hi 👋, I'm Sabbir</h1>
 <h3 align="center">🚀 Mobile Application Developer | Flutter • Kotlin • Android</h3>
+
+<!-- Banner -->
+<img width="3400" height="872" alt="github-header-banner" src="https://github.com/user-attachments/assets/2e013c1e-628f-46c1-911a-af4fb6d08651" />
 
 ---
 
