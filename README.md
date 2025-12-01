@@ -57,13 +57,7 @@
 ---
 
 ## 💻 What I Do  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 30%; height: auto;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF5bTM0bnhjYzVtcWdwZjRleWdxdHFwcmlveDNzY2U2bDAycHZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" style="max-width: 30%; height: auto;">
-</p>
+<p align="center"> <table> <tr> <td> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px"> </td> <td> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF5bTM0bnhjYzVtcWdwZjRleWdxdHFwcmlveDNzY2U2bDAycHZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="200px"> </td> </tr> </table> </p>
 
 
 ---
