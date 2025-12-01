@@ -23,34 +23,53 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,androidstudio,firebase,mysql,figma,postman,git,github" />
 </p>
 
-
 ---
 
 ## 🌐 Portfolio Website  
-🚀 **Portfolio:** https://sabbirabdullah.vercel.app  
+🚀 **Portfolio:** https://sabbirabdullah.vercel.app
+
+---
+## 🎨 Portfolio Showcase Grid  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-View%20Project-181717?style=for-the-badge&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Live%20Demo-blue?style=for-the-badge&logo=google-chrome" /></a>
+</p>
+---
+
+## 💻 What I Do  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px">
+</p>
 
 
 
 ## 📌 Featured Projects  
 ### 🔹 **NeuroCheck Pro — Medical Assessment App (iOS + Android)**
 - Flutter + GetX  
-- Apple TestFlight + Play Store  
 - Backend: Node.js + MySQL  
-- QR Code flow + Assessment system  
+- Appointment + Assessment system  
 
-### 🔹 **POS & QR Scanner App**
-- QR code scanning  
-- Auto item listing + quantity update  
+### 🔹 **E-Com & POS Sys Management App**
+- QR code scanning
+- Online Payment 
+- Auto item listing + quantity update and many more
 - Clean MVVM architecture  
 
 ### 🔹 **Attendance App**
 - Camera capture, location tracking  
 - Node.js backend with MySQL  
 - Two-step attendance (in/out time)
-
+- 
+### 🔹 **Weather  Forecast**
+- Kotlin + Hilt + Retrofit + Clean Architecture  
+- Search specific location , Current weather 
+  
 ### 🔹 **School Management System (Ongoing)**
 - Flutter + BLoC + Clean Architecture  
-- Fees, attendance, homework, notifications
+- Fees payment, attendance, homework, notifications etc.
 
 ---
 
