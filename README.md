@@ -49,12 +49,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px">
 </p>
----
+
 ## 📌 **Featured Projects**
 
-### 🔹 **NeuroCheck Pro — Medical Assessment App (iOS + Android)**
 <details>
-  <summary><b>▶️ NeuroCheck Pro — Medical Assessment App (iOS + Android)</b></summary>
+  <summary><b>NeuroCheck Pro — Medical Assessment App (iOS + Android)</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter + GetX</li>
     <li><b>Backend:</b> Node.js + MySQL</li>
@@ -64,9 +63,8 @@
 
 ---
 
-### 🔹 **E-Com & POS Sys Management App**
 <details>
-  <summary><b>▶️ E-Com & POS Sys Management App</b></summary>
+  <summary><b>E-Com & POS Sys Management App</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter</li>
     <li><b>Features:</b> QR code scanning, Online payment, Auto item listing & quantity update, Clean MVVM architecture</li>
@@ -75,9 +73,8 @@
 
 ---
 
-### 🔹 **Attendance App**
 <details>
-  <summary><b>▶️ Attendance App</b></summary>
+  <summary><b>Attendance App</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter + Node.js</li>
     <li><b>Features:</b> Camera capture, location tracking, Two-step attendance (in/out time), Node.js backend with MySQL</li>
@@ -86,9 +83,8 @@
 
 ---
 
-### 🔹 **Weather Forecast**
 <details>
-  <summary><b>▶️ Weather Forecast</b></summary>
+  <summary><b>Weather Forecast</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Kotlin + Hilt + Retrofit + Clean Architecture</li>
     <li><b>Features:</b> Search specific location, Current weather information</li>
@@ -97,9 +93,9 @@
 
 ---
 
-### 🔹 **School Management System (Ongoing)**
+
 <details>
-  <summary><b>▶️ School Management System (Ongoing)</b></summary>
+  <summary><b>School Management System (Ongoing)</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter + BLoC + Clean Architecture</li>
     <li><b>Features:</b> Fees payment, attendance, homework management, notifications</li>
