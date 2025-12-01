@@ -114,10 +114,12 @@
 
 ---
 
-## 🚀 Most Used Languages  
+## 🚀 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirAbdullah&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirAbdullah&layout=compact&theme=tokyonight&hide=html&langs_count=10" />
 </p>
+
 
 ---
 
