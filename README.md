@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px">
 </p>
+---
 
 ## 📌 **Featured Projects**
 
@@ -74,7 +75,7 @@
 ---
 
 <details>
-  <summary><b>Attendance App</b></summary>
+  <summary><b>Attendance Cam & GPS Location App</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter + Node.js</li>
     <li><b>Features:</b> Camera capture, location tracking, Two-step attendance (in/out time), Node.js backend with MySQL</li>
@@ -101,7 +102,7 @@
     <li><b>Features:</b> Fees payment, attendance, homework management, notifications</li>
   </ul>
 </details>
-
+---
 
 
 ## 📊 GitHub Stats  
