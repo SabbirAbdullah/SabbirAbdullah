@@ -102,8 +102,8 @@
     <li><b>Features:</b> Fees payment, attendance, homework management, notifications</li>
   </ul>
 </details>
----
 
+---
 
 ## 📊 GitHub Stats  
 <p align="center">
