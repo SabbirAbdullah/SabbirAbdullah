@@ -51,31 +51,52 @@
 </p>
 
 
-
+---
 ## 📌 Featured Projects  
 ### 🔹 **NeuroCheck Pro — Medical Assessment App (iOS + Android)**
-- Flutter + GetX  
-- Backend: Node.js + MySQL  
-- Appointment + Assessment system  
+<details>
+  <summary>▶️ Click to expand</summary>
+  - **Tech Stack**: Flutter + GetX  
+  - **Backend**: Node.js + MySQL  
+  - **Features**: Appointment system, Assessment system  
+</details>
+
+---
 
 ### 🔹 **E-Com & POS Sys Management App**
-- QR code scanning
-- Online Payment 
-- Auto item listing + quantity update and many more
-- Clean MVVM architecture  
+<details>
+  <summary>▶️ Click to expand</summary>
+  - **Tech Stack**: Flutter  
+  - **Features**: QR code scanning, Online payment, Auto item listing & quantity update, Clean MVVM architecture  
+</details>
+
+---
 
 ### 🔹 **Attendance App**
-- Camera capture, location tracking  
-- Node.js backend with MySQL  
-- Two-step attendance (in/out time)
-- 
-### 🔹 **Weather  Forecast**
-- Kotlin + Hilt + Retrofit + Clean Architecture  
-- Search specific location , Current weather 
-  
+<details>
+  <summary>▶️ Click to expand</summary>
+  - **Tech Stack**: Flutter + Node.js  
+  - **Features**: Camera capture, location tracking, Two-step attendance (in/out time), Node.js backend with MySQL  
+</details>
+
+---
+
+### 🔹 **Weather Forecast**
+<details>
+  <summary>▶️ Click to expand</summary>
+  - **Tech Stack**: Kotlin + Hilt + Retrofit + Clean Architecture  
+  - **Features**: Search specific location, Current weather information  
+</details>
+
+---
+
 ### 🔹 **School Management System (Ongoing)**
-- Flutter + BLoC + Clean Architecture  
-- Fees payment, attendance, homework, notifications etc.
+<details>
+  <summary>▶️ Click to expand</summary>
+  - **Tech Stack**: Flutter + BLoC + Clean Architecture  
+  - **Features**: Fees payment, attendance, homework management, notifications  
+</details>
+
 
 ---
 
