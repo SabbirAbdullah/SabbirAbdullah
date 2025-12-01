@@ -59,13 +59,13 @@
 ## 💻 What I Do  
 
 <p align="center"> 
-
+<table>
  <tr> <td> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=45%>
  </td> <td> 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzF5bTM0bnhjYzVtcWdwZjRleWdxdHFwcmlveDNzY2U2bDAycHZjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width=55%> 
 </td> </tr> 
-
+</table>
 </p>
 
 
