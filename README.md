@@ -20,15 +20,9 @@
 
 ## 🛠️ Skills & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,xcode,firebase,androidstudio,mysql,figma,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,androidstudio,apple,firebase,,mysql,figma,postman,git,github" />
 </p>
 
----
-
-## 💻 What I Do  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px">
-</p>
 
 ---
 
