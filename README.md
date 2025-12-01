@@ -9,7 +9,7 @@
 
 
 ## 👨‍💻 About Me  
-- 🔭 Working as a **Mobile App Developer**  
+- 🔭 Working as a **Mobile App Developer at [mPair Technologies](https://mpairtech.com/)*  
 - 📱 Skilled in **Flutter | Kotlin**
 - 📚 Exploring **Node.js and Express**  
 - 🎯 Love building **Cross Platform Application**  
