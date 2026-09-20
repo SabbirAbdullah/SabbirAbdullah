@@ -73,32 +73,44 @@
 
 ## 📌 **Featured Projects**
 
+## 📌 **Featured Projects**
+
 <details>
   <summary><b>NeuroCheck Pro — Medical Assessment App (iOS + Android)</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter + GetX</li>
     <li><b>Backend:</b> Node.js + MySQL</li>
     <li><b>Features:</b> Appointment system, Assessment system</li>
+    <li><b>Available on:</b>
+      <a href="https://play.google.com/store/apps/details?id=com.neurocheckpro.app">Google Play</a> 
+    </li>
   </ul>
 </details>
 
 ---
 
 <details>
-  <summary><b>E-Com & POS Sys Management App</b></summary>
+  <summary><b>Parkview Appointment</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter</li>
-    <li><b>Features:</b> QR code scanning, Online payment, Auto item listing & quantity update, Clean MVVM architecture</li>
+    <li><b>Features:</b> Hospital appointment app for booking doctor visits at Parkview with real-time schedules, smart alerts, and complete booking history.</li>
+    <li><b>Available on:</b>
+      <a href="https://play.google.com/store/apps/details?id=com.appointment.parkview.parkviewappointment">Google Play</a> |
+      <a href="https://apps.apple.com/us/app/parkview-appointment/id1660447155">App Store</a>
+    </li>
   </ul>
 </details>
 
 ---
 
 <details>
-  <summary><b>Attendance Cam & GPS Location App</b></summary>
+  <summary><b>Al Hasanain</b></summary>
   <ul>
     <li><b>Tech Stack:</b> Flutter + Node.js</li>
-    <li><b>Features:</b> Camera capture, location tracking, Two-step attendance (in/out time), Node.js backend with MySQL</li>
+    <li><b>Features:</b> Official school management app connecting parents and students with academic info, schedules, and real-time push notifications.</li>
+    <li><b>Available on:</b>
+      <a href="https://play.google.com/store/apps/details?id=com.alhasanain.studant.parents.app.alhasanain_app">Google Play</a> 
+    </li>
   </ul>
 </details>
 
@@ -114,14 +126,6 @@
 
 ---
 
-
-<details>
-  <summary><b>School Management System (Ongoing)</b></summary>
-  <ul>
-    <li><b>Tech Stack:</b> Flutter + BLoC + Clean Architecture</li>
-    <li><b>Features:</b> Fees payment, attendance, homework management, notifications</li>
-  </ul>
-</details>
 
 ---
 
