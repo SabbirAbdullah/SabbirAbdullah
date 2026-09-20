@@ -73,8 +73,6 @@
 
 ## 📌 **Featured Projects**
 
-## 📌 **Featured Projects**
-
 <details>
   <summary><b>NeuroCheck Pro — Medical Assessment App (iOS + Android)</b></summary>
   <ul>
@@ -106,7 +104,7 @@
 <details>
   <summary><b>Al Hasanain</b></summary>
   <ul>
-    <li><b>Tech Stack:</b> Flutter + Node.js</li>
+    <li><b>Tech Stack:</b> Flutter</li>
     <li><b>Features:</b> Official school management app connecting parents and students with academic info, schedules, and real-time push notifications.</li>
     <li><b>Available on:</b>
       <a href="https://play.google.com/store/apps/details?id=com.alhasanain.studant.parents.app.alhasanain_app">Google Play</a> 
